@@ -13,6 +13,7 @@
   <a href="https://huggingface.co/papers/"><img alt="Hugging Face" src="https://img.shields.io/badge/Hugging%20Face-Paper-FFD21E?style=flat-square&logo=huggingface&logoColor=black"></a>
   -->
   <a href="https://wkqdzkd.github.io/Awesome-Reliable-Self-Evolving-Agents/Diving_into_Reliable_Self-Evolving_Agents_A_Survey.pdf"><img alt="Paper PDF" src="https://img.shields.io/badge/Paper-PDF-D14836?style=flat-square&amp;logo=adobeacrobatreader&amp;logoColor=white"></a>
+  <a href="https://www.preprints.org/manuscript/202609.0913"><img alt="Preprint" src="https://img.shields.io/badge/Preprints.org-Preprint-168CC8?style=flat-square"></a>
   <a href="https://openreview.net/forum?id=CGO1hDTHNe"><img alt="OpenReview" src="https://img.shields.io/badge/OpenReview-Paper-8C1B13?style=flat-square&amp;logo=openreview&amp;logoColor=white"></a>
   <a href="https://x.com/TencentHunyuan/status/2087444616832594022?s=20"><img alt="X (Twitter)" src="https://img.shields.io/badge/Tweet-black?logo=x&amp;logoColor=white"></a>
   <a href="http://xhslink.cn/o/atfKcaQL3C"><img alt="小红书" src="https://img.shields.io/badge/%E5%B0%8F%E7%BA%A2%E4%B9%A6-ff2442?logo=xiaohongshu&amp;logoColor=white"></a>
@@ -29,6 +30,12 @@
 </p>
 
 </div>
+
+## 🔥 What's New
+
+- **September 11, 2026** — The survey is now available on **[Preprints.org](https://www.preprints.org/manuscript/202609.0913)**.
+- **August 11–12, 2026** — We announced the survey on **[Xiaohongshu](http://xhslink.cn/o/atfKcaQL3C)** (August 11) and **[X](https://x.com/TencentHunyuan/status/2087444616832594022?s=20)** (August 12).
+- **August 10, 2026** — We posted the survey on **[OpenReview](https://openreview.net/forum?id=CGO1hDTHNe)**.
 
 > 🤝 Contributions are welcome: correct a manuscript-used record, or add the paper to the manuscript before proposing it here.
 
